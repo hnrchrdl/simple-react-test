@@ -1,0 +1,5952 @@
+[
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "courses",
+          "translation": "Schulungen"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "universityDegree",
+          "translation": "Hochschulabschluss"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "industries": [
+        {
+          "key": "counselling",
+          "translation": "Rechts- und Steuerberatung, Wirtschaftsprüfung"
+        },
+        {
+          "key": "else",
+          "translation": "Sonstige Branchen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [
+        "counselling",
+        "else"
+      ],
+      "benefits": [
+        "courses",
+        "teamspirit",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "universityDegree",
+        "projectexperience",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "3152a4e7-6605-47fb-a9e9-d2bf0207ee29",
+    "title": "Cyber Security Experte (w/m) im CSIRT in Frankfurt am Main",
+    "source": "heyjobs",
+    "provider": "productsup",
+    "itemId": "019f08df-c011-47b4-91c1-0db1ee92777f",
+    "url": "https://www.heyjobs.de/jobs/019f08df-c011-47b4-91c1-0db1ee92777f/out?utm_source=joblift&utm_medium=cpc&utm_campaign=1.00&utm_content=019f08df-c011-47b4-91c1-0db1ee92777f&utm_term=project_manager",
+    "company": "Deutsche Bahn AG",
+    "jobTrackingId": "46e4589515b631864ae7f64774ad9a4e",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.1167,
+          "lon": 8.6833
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Frankfurt am Main",
+        "state": "",
+        "country": "DE",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "itemHash": "2830695ba6401035c41e48163a8fa694",
+    "weight": -0.065,
+    "relevanceScore": 433.59357,
+    "clickoutUrl": "/offer/3152a4e7-6605-47fb-a9e9-d2bf0207ee29/",
+    "industries": [
+      "counselling",
+      "else"
+    ],
+    "cpcHash": "4c61208910939c20f569ef6a4e8dd4b0b54cef0d",
+    "tsCreated": "2018-05-07T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIzMTUyYTRlNy02NjA1LTQ3ZmItYTllOS1kMmJmMDIwN2VlMjkiLCJpbmRleCI6MCwicGFnZSI6MX0.YCmAAa6G43SF-s8B1r7UDkhWvj1YB40_t0LC6C8FgVQ",
+    "businessFeed": "all",
+    "showDetails": false,
+    "tsImport": "2018-05-08T08:22:41Z",
+    "customer": "heyjobs"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "innovativeculture",
+          "translation": "Innovatives Umfeld"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it maintenance",
+          "translation": "IT Administration"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "parttime",
+          "translation": "Teilzeit"
+        },
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it maintenance"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it maintenance",
+      "informativeTags": [
+        "HTML"
+      ],
+      "workingTimes": [
+        "parttime",
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "innovativeculture",
+        "teamspirit",
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "15f276c3-3ddd-4f03-bdca-c7635b2c243b",
+    "title": "Cyber Security Architect (m/w) im Bereich Daimler Car IT Infotainment- Systems",
+    "source": "jobmenu",
+    "provider": "productsup",
+    "itemId": "7392300",
+    "url": "https://www.it-treff.de/it-job-stellenangebot/cyber-security-architect-im-bereich-daimler-car-it-infotainment-systems-sindelfingen-7392300?rx_a=60&rx_c=alle-jobs&rx_group=109515&rx_job=7392300&rx_medium=cpc&rx_source=JobliftDE",
+    "company": "Daimler AG",
+    "jobTrackingId": "18067637908c7e2ba32c0ec4d77a8a5a",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.7094,
+          "lon": 8.9988
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Sindelfingen",
+        "state": "",
+        "country": "Deutschland",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "Jobmenu",
+    "itemHash": "672616a57ddeb43c95af52325e602243",
+    "weight": 0,
+    "cpcCategory": "IT - Treff",
+    "relevanceScore": 359.73407,
+    "clickoutUrl": "/offer/15f276c3-3ddd-4f03-bdca-c7635b2c243b/",
+    "cpcHash": "9d9ec246b26468c469b08fb7a62a136c806a88fc",
+    "tsCreated": "2018-06-05T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIxNWYyNzZjMy0zZGRkLTRmMDMtYmRjYS1jNzYzNWIyYzI0M2IiLCJpbmRleCI6MSwicGFnZSI6MX0.YB2-3dSVUjJbrSkDyH1iuCJAerNiJl3Dc3Qic4q3-0g",
+    "businessFeed": "all",
+    "showDetails": false,
+    "tsImport": "2018-06-05T12:35:30Z",
+    "customer": "jobmenu"
+  },
+  {
+    "tags": {
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {},
+    "annotations": {
+      "language": "en",
+      "companyType": "",
+      "informativeTags": [
+        "entrepreneurial",
+        "humanresources",
+        "technology",
+        "network"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "training"
+      ],
+      "requirements": [
+        "teamplayer",
+        "communicationskills",
+        "confident",
+        "Expert"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "7b0e29c3-53ff-4c2d-9ba4-561b782af71e",
+    "title": "Cyber Specialist (m/f)* Cyber Risk Program / Cyber Expert Pool",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4963356",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4963356&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Münchener Rückversicherungs-Gesellschaft AG",
+    "jobTrackingId": "2c96cfdc19330ec4452188ad436c5d7c",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.14329528808594,
+          "lon": 11.564067840576172
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "08e55cbf8e7c3cee9ed2088f8b6b0dc0",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 350.87402,
+    "clickoutUrl": "/offer/7b0e29c3-53ff-4c2d-9ba4-561b782af71e/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-30T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI3YjBlMjljMy01M2ZmLTRjMmQtOWJhNC01NjFiNzgyYWY3MWUiLCJpbmRleCI6MiwicGFnZSI6MX0.c1XM0-BX478qFodOzvO4vuwYA0F0XG_Dq3MBlUQ8nIY",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-19T00:50:07Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "requirements": [
+        {
+          "key": "englishnative",
+          "translation": "Verhandlungssicheres Englisch"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "automotive",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience",
+        "englishnative"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en",
+        "fr"
+      ]
+    },
+    "offerId": "4675a9ba-2f6f-435e-bec8-eedb821b547c",
+    "title": "Cyber Security Manager (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5026337",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5026337&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "VALEO Schalter und Sensoren GmbH",
+    "jobTrackingId": "5979c8a1e4de66c3c3cc00097327c16a",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.96670150756836,
+          "lon": 9.133299827575684
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Bietigheim-Bissingen",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "476caab9cf31966fece0c5cb2271d7ee",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 347.05804,
+    "clickoutUrl": "/offer/4675a9ba-2f6f-435e-bec8-eedb821b547c/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-06-06T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI0Njc1YTliYS0yZjZmLTQzNWUtYmVjOC1lZWRiODIxYjU0N2MiLCJpbmRleCI6MywicGFnZSI6MX0.Li51N13WNIHiF36qYteaUcsINVKFPHn_xkhmNLAEkGM",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-06T00:50:01Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "analytics"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "business",
+      "sectorLevel1": "analytics",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "permanent",
+        "teamspirit",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "500636bb-89cc-4d50-ac9d-afa7fa87bbc5",
+    "title": "Cyber Security Analyst (w/m) - Security Operations Center (SOC)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5042255",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5042255&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Heraeus infosystems GmbH",
+    "jobTrackingId": "864ce73c08f3b2e78158a729a262cfd4",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.127017974853516,
+          "lon": 8.91685962677002
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Hanau",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "a7684a7bd78eb2b97af861dc3e9e775e",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 344.7443,
+    "clickoutUrl": "/offer/500636bb-89cc-4d50-ac9d-afa7fa87bbc5/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-06-12T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI1MDA2MzZiYi04OWNjLTRkNTAtYWM5ZC1hZmE3ZmE4N2JiYzUiLCJpbmRleCI6NCwicGFnZSI6MX0._9vdWGZmuhfFwONVa_j8a_qmUORw6uuYt6SHaYEkAM4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "university",
+          "translation": "Akademische Forschung & Lehre"
+        }
+      ],
+      "function": [
+        {
+          "key": "educating",
+          "translation": "Bildung & Lehre"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "fixed",
+          "translation": "Befristeter Vertrag"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "parttime",
+          "translation": "Teilzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "educating",
+      "sectorLevel1": "university"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "educating",
+      "sectorLevel1": "university",
+      "informativeTags": [
+        "Java",
+        "C++",
+        "Python"
+      ],
+      "workingTimes": [
+        "parttime"
+      ],
+      "employmentTypes": [
+        "fixed"
+      ],
+      "industries": [],
+      "benefits": [
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "programming"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "e6f3e3bb-fa4d-4bef-b071-f9db379ee408",
+    "title": "WISSENSCHAFTLICHE MITARBEITERINNEN / WISSENSCHAFTLICHER MITARBEITER DER FACHRICHTUNG CYBER-SICHERHEIT MARITIMER SYSTEME",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5009808",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5009808&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Fraunhofer-Institut für Kommunikation, Informationsver. und Ergonomie FKIE",
+    "jobTrackingId": "ab15a3de4b3fab417f94c7bf6f52794f",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.719764709472656,
+          "lon": 7.1122941970825195
+        },
+        "address": "",
+        "district": "",
+        "zip": "53177",
+        "city": "Bonn",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "35e7dd16641ee37dfd435edf62b3b62d",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 342.95477,
+    "clickoutUrl": "/offer/e6f3e3bb-fa4d-4bef-b071-f9db379ee408/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-25T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJlNmYzZTNiYi1mYTRkLTRiZWYtYjA3MS1mOWRiMzc5ZWU0MDgiLCJpbmRleCI6NSwicGFnZSI6MX0.BSLte8aVlb_v4JE85gljwd4tSwpKwEXOQrJk6J-ZAx0",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "attractivepay",
+          "translation": "Attraktive Vergütung"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        },
+        {
+          "key": "homeOffice",
+          "translation": "Home Office"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "it consulting",
+          "translation": "IT Consulting"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "it consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "it consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "companyPension",
+        "sabbaticalYear",
+        "teamspirit",
+        "homeOffice",
+        "attractivepay"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "4aebca7f-fbea-4fa6-b181-4a27b710c501",
+    "title": "Inhouse Cyber Security Projektberater (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4997464",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4997464&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HSBC",
+    "jobTrackingId": "875f73a110e83d056d9b3a0427681acf",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "7f036df22b78401a99f37998d5b2d518",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 342.86536,
+    "clickoutUrl": "/offer/4aebca7f-fbea-4fa6-b181-4a27b710c501/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-19T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI0YWViY2E3Zi1mYmVhLTRmYTYtYjE4MS00YTI3YjcxMGM1MDEiLCJpbmRleCI6NiwicGFnZSI6MX0.vTyiCDRxjmovqkd0HPObZ9AyOX0Jvq020VF2QhZt4_U",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-19T12:50:21Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "sectorLevel1": [
+        {
+          "key": "it maintenance",
+          "translation": "IT Administration"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it maintenance"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it maintenance",
+      "informativeTags": [
+        "technology",
+        "cybersecurity"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [],
+      "requirements": [
+        "teamplayer",
+        "confident",
+        "Expert"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "en"
+      ]
+    },
+    "offerId": "7c73dc74-df1e-4b1b-a6e9-007f7861afba",
+    "title": "Embedded Systems Cyber Security Expert China (m/f)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5008944",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5008944&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "escrypt GmbH - Embedded Security",
+    "jobTrackingId": "27cebf7884f2dda6e6beaa535a49b1a7",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 31.230392456054688,
+          "lon": 121.47370147705078
+        },
+        "address": "",
+        "district": "",
+        "zip": "44789",
+        "city": "Shanghai",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "052d30c28bd06cb64d4e731fd4dd3b44",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 342.68005,
+    "clickoutUrl": "/offer/7c73dc74-df1e-4b1b-a6e9-007f7861afba/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-25T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI3YzczZGM3NC1kZjFlLTRiMWItYTZlOS0wMDdmNzg2MWFmYmEiLCJpbmRleCI6NywicGFnZSI6MX0.3e0WZWZnr7kD4IUDgrVD4nRau6Y7ZuKJZNyybXS-Rmc",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        },
+        {
+          "key": "bonus",
+          "translation": "Bonus"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "englishnative",
+          "translation": "Verhandlungssicheres Englisch"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "flexiTime",
+        "bonus",
+        "teamspirit"
+      ],
+      "requirements": [
+        "analyticalskills",
+        "completedDegree",
+        "jobexperience",
+        "englishnative"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "cfbaa751-de96-4b81-a4c3-d9f1dd01ee88",
+    "title": "Experte für Cyber-Sicherheit (m/w) (Bachelor/FH)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5022341",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5022341&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Bundesnachrichtendienst",
+    "jobTrackingId": "409e5a4ddc3da4eadf8f252da54d9245",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.519171,
+          "lon": 13.4060912
+        },
+        "address": "",
+        "district": "",
+        "zip": "82042",
+        "city": "Berlin",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "0c58ff100ad39e4d92157548da8e2df7",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 342.65714,
+    "clickoutUrl": "/offer/cfbaa751-de96-4b81-a4c3-d9f1dd01ee88/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-06-04T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJjZmJhYTc1MS1kZTk2LTRiODEtYTRjMy1kOWYxZGQwMWVlODgiLCJpbmRleCI6OCwicGFnZSI6MX0.NRKn-wz1C3QRLAEwSFabJ9JbTFS2f_i7_Hrw-wwRCdM",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-05T00:50:30Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "lead",
+          "translation": "Führungsposition"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "seniority": "mid level management",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "lead"
+      ],
+      "industries": [],
+      "benefits": [
+        "teamspirit",
+        "automotive"
+      ],
+      "requirements": [
+        "serviceoriented",
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "7ed8f222-4cd0-4072-9255-ed05a6ff24ed",
+    "title": "(Senior) Consultant Cyber Defence / Cyber Security (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4997256",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4997256&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "IABG Industrieanlagen - Betriebsgesellschaft mbH",
+    "jobTrackingId": "eccbf46499e9b2e735f9d36354543bb0",
+    "locations": [
+      {
+        "city": "Ottobrunn bei München",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 50.3567,
+          "lon": 7.5932
+        },
+        "city": "Koblenz",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "fd9a84e024b207d758d824733cb2df9f",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 342.00085,
+    "clickoutUrl": "/offer/7ed8f222-4cd0-4072-9255-ed05a6ff24ed/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-19T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI3ZWQ4ZjIyMi00Y2QwLTQwNzItOTI1NS1lZDA1YTZmZjI0ZWQiLCJpbmRleCI6OSwicGFnZSI6MX0.YhXLxaezmwtVSLNepjXMs6OKQauBsmSDNRTECTbKLYE",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-19T12:50:21Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "attractivepay",
+          "translation": "Attraktive Vergütung"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        },
+        {
+          "key": "homeOffice",
+          "translation": "Home Office"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "companyPension",
+        "sabbaticalYear",
+        "teamspirit",
+        "homeOffice",
+        "attractivepay"
+      ],
+      "requirements": [
+        "projectexperience",
+        "analyticalskills",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "aff40dc9-b00d-4bae-bb20-714347c81718",
+    "title": "IT-Security – Cyber Security Incident Manager (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4990765",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4990765&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HSBC",
+    "jobTrackingId": "33970965816516600e6cf7a51301a7a7",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "6e81c2621d7b82b19f6e46d9e1db6bb6",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 341.77545,
+    "clickoutUrl": "/offer/aff40dc9-b00d-4bae-bb20-714347c81718/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-17T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJhZmY0MGRjOS1iMDBkLTRiYWUtYmIyMC03MTQzNDdjODE3MTgiLCJpbmRleCI6MTAsInBhZ2UiOjF9.TzcXI5WUITslb9fJyrZoLdalWkzcDNOHkHIVOukBzA4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-17T12:50:06Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [
+        "technology",
+        "cybersecurity",
+        "mitigaterisks",
+        "sales"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [],
+      "requirements": [
+        "communicationskills",
+        "Interpersonal"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "ff140d30-b94f-46d1-85e2-5d3ea5003034",
+    "title": "IT Professional Cyber Security - Applications (m/f)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4944818",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4944818&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Continental AG",
+    "jobTrackingId": "daf60019fbf234b61a08176c5500e64c",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.37647247314453,
+          "lon": 9.746337890625
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Hannover",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "5b621f89974ba09163889bf1bf8d5269",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 341.63943,
+    "clickoutUrl": "/offer/ff140d30-b94f-46d1-85e2-5d3ea5003034/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-20T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJmZjE0MGQzMC1iOTRmLTQ2ZDEtODVlMi01ZDNlYTUwMDMwMzQiLCJpbmRleCI6MTEsInBhZ2UiOjF9.IiAEw8IvxNaS417byApqmPVXHfwlrg0hoC3YVrcJ_Ik",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-21T12:50:08Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "bonus",
+          "translation": "Bonus"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "englishnative",
+          "translation": "Verhandlungssicheres Englisch"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "engineering",
+      "informativeTags": [
+        "Java",
+        "C++",
+        "Perl",
+        "Python"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "bonus",
+        "teamspirit"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience",
+        "englishnative"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "ff905506-2767-4cad-b95d-eb2c6bc918c7",
+    "title": "Informatiker / Ingenieur für Cyber-Sicherheit (m/w) (Bachelor/FH)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5022555",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5022555&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Bundesnachrichtendienst",
+    "jobTrackingId": "4f306869fe2a8fbb3711d497f70a76ee",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.519171,
+          "lon": 13.4060912
+        },
+        "address": "",
+        "district": "",
+        "zip": "82042",
+        "city": "Berlin",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "fa42bc5b858bb2d74a7d6cb22417b561",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 341.48196,
+    "clickoutUrl": "/offer/ff905506-2767-4cad-b95d-eb2c6bc918c7/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-06-04T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJmZjkwNTUwNi0yNzY3LTRjYWQtYjk1ZC1lYjJjNmJjOTE4YzciLCJpbmRleCI6MTIsInBhZ2UiOjF9.watfZUCdw4eL3dAgqI_iuAnltyxl2El2w4WcvF7nLzo",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-05T00:50:30Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {},
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [],
+      "requirements": [],
+      "homeOffice": [],
+      "languageSkill": [
+        "de"
+      ]
+    },
+    "offerId": "1b0172c4-ade1-458b-aa84-e9f17202e37f",
+    "title": "UNDERWRITER (m/w) Cyber Risiken",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4949850",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4949850&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "R+V Allgemeine Versicherung AG",
+    "jobTrackingId": "50aad4b081a1e43a11fe3b2b1ae3041a",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.0778459402231,
+          "lon": 8.24530777564416
+        },
+        "address": "",
+        "district": "",
+        "zip": "65183",
+        "city": "Wiesbaden",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "365343a5a0e8120ff6b64a2fb5d5a3b5",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 341.41565,
+    "clickoutUrl": "/offer/1b0172c4-ade1-458b-aa84-e9f17202e37f/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-24T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIxYjAxNzJjNC1hZGUxLTQ1OGItYWE4NC1lOWYxNzIwMmUzN2YiLCJpbmRleCI6MTMsInBhZ2UiOjF9.tBIPI2hBs0wfRos_5yElnfsiJjL1p2CTfHrHdxma918",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-04-25T00:54:16Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "fieldService",
+          "translation": "Außendienst"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "career",
+          "translation": "Karrierechancen"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        },
+        {
+          "key": "travelReady",
+          "translation": "Reisebereitschaft"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "engineering",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "career",
+        "fieldService",
+        "teamspirit"
+      ],
+      "requirements": [
+        "serviceoriented",
+        "travelReady",
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "bf4dd413-33fe-416a-acc5-96b932f57556",
+    "title": "Cyber Security Service Engineer (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5004407",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5004407&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HIMA Paul Hildebrandt GmbH",
+    "jobTrackingId": "54f989f572ba5c9fdb5705e706dde4a1",
+    "locations": [
+      {
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Deutschlandweit im Außendienst",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "aca087f2361bae3e1936a589bdfccc69",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 340.00992,
+    "clickoutUrl": "/offer/bf4dd413-33fe-416a-acc5-96b932f57556/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-23T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJiZjRkZDQxMy0zM2ZlLTQxNmEtYWNjNS05NmI5MzJmNTc1NTYiLCJpbmRleCI6MTQsInBhZ2UiOjF9.tWLK0ufqm2SPZrcKkaUKdmb4l0ODTRchuSiqce5smGU",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-24T00:50:01Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "managementResponsibility",
+          "translation": "Führungsverantwortung"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "strategy and management",
+          "translation": "Strategie & Management"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "strategy and management",
+      "sectorLevel2": "other management"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "",
+      "function": "business",
+      "sectorLevel1": "strategy and management",
+      "sectorLevel2": "other management",
+      "informativeTags": [
+        "digital",
+        "ITinfrastructure",
+        "humanresources",
+        "technology",
+        "strategy",
+        "cybersecurity",
+        "network"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "managementResponsibility"
+      ],
+      "requirements": [
+        "communicationskills",
+        "Expert"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "1d045245-4c8a-4e9c-a2e5-874e4a8d3b55",
+    "title": "Cyber Risk Manager (m/f)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5006186",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5006186&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Münchener Rückversicherungs-Gesellschaft AG",
+    "jobTrackingId": "0e4caab0e0faa0bc700410d23b121257",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.156429290771484,
+          "lon": 11.588299751281738
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "4b2c1c1259a1b1e8bd062742a3c77205",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 339.37967,
+    "clickoutUrl": "/offer/1d045245-4c8a-4e9c-a2e5-874e4a8d3b55/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-24T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIxZDA0NTI0NS00YzhhLTRlOWMtYTJlNS04NzRlNGE4ZDNiNTUiLCJpbmRleCI6MTUsInBhZ2UiOjF9.yWRhZVWcNjYLB77YhCYkHPnkCCgls_ypDCR8oeqcmu4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {},
+    "annotations": {
+      "language": "en",
+      "companyType": "",
+      "informativeTags": [
+        "entrepreneurial",
+        "humanresources",
+        "technology",
+        "network"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "training"
+      ],
+      "requirements": [
+        "teamplayer",
+        "communicationskills",
+        "confident",
+        "Expert"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "3200ffde-79a3-4f5c-81d3-dcdc2cfb9f83",
+    "title": "Cyber Specialist (m/f) Cyber Risk Program / Cyber Expert Pool",
+    "source": "süddeutsche",
+    "provider": "productsup",
+    "itemId": "3945639",
+    "url": "http://stellenmarkt-stage.sueddeutsche.de/jobs/cyber-specialist-m-f-cyber-risk-program-cyber-expert-pool-3945639",
+    "company": "Münchener Rückversicherungs-Gesellschaft AG",
+    "jobTrackingId": "559578107c14b0a64b63db78eb3bfb6f",
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "Süddeutsche Zeitung",
+    "itemHash": "f408168c559afae7ee73986818ac1011",
+    "weight": 0.02,
+    "hasDetailsLink": [
+      "FRONTEND"
+    ],
+    "relevanceScore": 261.6146,
+    "clickoutUrl": "/offer/3200ffde-79a3-4f5c-81d3-dcdc2cfb9f83/",
+    "cpcHash": "2971fc7b4f9c21a3543dd6e4e0a687743f310e43",
+    "tsCreated": "2018-05-03T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIzMjAwZmZkZS03OWEzLTRmNWMtODFkMy1kY2RjMmNmYjlmODMiLCJpbmRleCI6MTYsInBhZ2UiOjF9.iNwkKkWXEewo0dRwQOaQ975fhbr4-YmASyP7kCAs4ho",
+    "businessFeed": "productsup-sueddeutsche",
+    "showDetails": true,
+    "tsImport": "2018-05-03T13:00:57Z",
+    "customer": "sueddeutsche-zeitung"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "parttime",
+          "translation": "Teilzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "parttime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "flexiTime",
+        "companyPension",
+        "teamspirit",
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "81da801b-e28c-4c70-a9d2-96aa05e0413a",
+    "title": "Cyber Security & IT Risk Officer (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4985235",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4985235&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Consors Finanz BNP Paribas",
+    "jobTrackingId": "616c6ed8b5ce87f54efd455f4797561d",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.14329528808594,
+          "lon": 11.564067840576172
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "519b753c765077b4f58366f9333d0d01",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 337.88345,
+    "clickoutUrl": "/offer/81da801b-e28c-4c70-a9d2-96aa05e0413a/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-17T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI4MWRhODAxYi1lMjhjLTRjNzAtYTlkMi05NmFhMDVlMDQxM2EiLCJpbmRleCI6MTcsInBhZ2UiOjF9.R_myPRHosmb3FkC6J3g_vEG9x2T8mHuvmoiALA734u4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "hierarchy",
+          "translation": "Flache Hierarchien"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "seniority": "mid level management",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "consulting",
+        "hierarchy",
+        "teamspirit",
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "c148b824-0ae7-43c7-b420-464c2946b882",
+    "title": "Senior Consultant (m/w) Cyber Security Architektur",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5014058",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5014058&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Deloitte",
+    "jobTrackingId": "b8b9266e2dddae741c8f503dfd879c17",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.2216,
+          "lon": 6.7897
+        },
+        "city": "Düsseldorf",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.7667,
+          "lon": 9.1833
+        },
+        "city": "Stuttgart",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 53.5544,
+          "lon": 9.9946
+        },
+        "city": "Hamburg",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.1345,
+          "lon": 11.571
+        },
+        "city": "München",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 50.1167,
+          "lon": 8.6833
+        },
+        "city": "Frankfurt am Main",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "e89cf3d927ed78dbd0527ff5a6398821",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 337.65558,
+    "clickoutUrl": "/offer/c148b824-0ae7-43c7-b420-464c2946b882/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-29T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJjMTQ4YjgyNC0wYWU3LTQzYzctYjQyMC00NjRjMjk0NmI4ODIiLCJpbmRleCI6MTgsInBhZ2UiOjF9.xAqUuREYFarusvOKM1X2OC3Y09rajYiynRFmVpZ8C7Q",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-30T00:50:33Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "perk",
+          "translation": "Vergünstigungen"
+        },
+        {
+          "key": "study",
+          "translation": "Weiterbildungsmöglichkeiten"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "company",
+      "function": "engineering",
+      "informativeTags": [
+        "technology",
+        "strategy",
+        "cybersecurity"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "study",
+        "perk",
+        "training"
+      ],
+      "requirements": [
+        "innovative",
+        "teamplayer"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "6e882355-f828-4cb5-b788-a04534646884",
+    "title": "Cyber Systems Engineering Manager (f/m)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "5031182",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=5031182&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "PwC",
+    "jobTrackingId": "c7259a53dbac0a785b36a267bbeba74a",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "9b4ed5b74f0403d40f37e123474c15b6",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 337.20654,
+    "clickoutUrl": "/offer/6e882355-f828-4cb5-b788-a04534646884/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-06-08T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI2ZTg4MjM1NS1mODI4LTRjYjUtYjc4OC1hMDQ1MzQ2NDY4ODQiLCJpbmRleCI6MTksInBhZ2UiOjF9.B2-W3liwNH-atQb3N4Ww33SbeYC-MyNuecm_JYzAVlA",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-08T00:50:32Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "attractivepay",
+          "translation": "Attraktive Vergütung"
+        },
+        {
+          "key": "devOpportunity",
+          "translation": "Entwicklungsmöglichkeiten"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "msOffice",
+          "translation": "MS Office"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "companyPension",
+        "devOpportunity",
+        "teamspirit",
+        "attractivepay",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "msOffice",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "bea13aed-dd0e-4195-9f91-8851ec695de6",
+    "title": "IM Cyber Security Specialist (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4930626",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4930626&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HENSOLDT",
+    "jobTrackingId": "f79b8b264f488dafd0c10c7d17eb4c8b",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.0291363,
+          "lon": 11.594184
+        },
+        "city": "Taufkirchen",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.4015,
+          "lon": 9.9927
+        },
+        "city": "Ulm",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "a930903d08e583efec570d4f7797342c",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 336.81158,
+    "clickoutUrl": "/offer/bea13aed-dd0e-4195-9f91-8851ec695de6/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-14T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJiZWExM2FlZC1kZDBlLTQxOTUtOWY5MS04ODUxZWM2OTVkZTYiLCJpbmRleCI6MjAsInBhZ2UiOjF9.R6sMYGnF6AoYvkOr-Mk4AEbFiBIDHIi5l0Tp4fXxru4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-04-30T00:53:26Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "lead",
+          "translation": "Führungsposition"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "lead"
+      ],
+      "industries": [],
+      "benefits": [
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de"
+      ]
+    },
+    "offerId": "20a5bc1c-1d8a-41a7-b19a-0d2856287df6",
+    "title": "IT Consultant w/m – Advanced Endpoint Security / Cyber Defence",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4978918",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4978918&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Computacenter AG & Co. oHG",
+    "jobTrackingId": "ef245daf1aa667934b13f710040de3df",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.5167,
+          "lon": 13.4
+        },
+        "city": "Berlin",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 50.1106529,
+          "lon": 8.6820934
+        },
+        "city": "Frankfurt",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 53.5544,
+          "lon": 9.9946
+        },
+        "city": "Hamburg",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 52.3736,
+          "lon": 9.7371
+        },
+        "city": "Hannover",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 49.4792355,
+          "lon": 8.4391173
+        },
+        "city": "Ludwigshafen",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.1345,
+          "lon": 11.571
+        },
+        "city": "München",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 49.4504,
+          "lon": 11.0778
+        },
+        "city": "Nürnberg",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 51.2922,
+          "lon": 6.8485
+        },
+        "city": "Ratingen",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.7667,
+          "lon": 9.1833
+        },
+        "city": "Stuttgart",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "d9c89c373eeff8174bc8dc3dec366669",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 336.64304,
+    "clickoutUrl": "/offer/20a5bc1c-1d8a-41a7-b19a-0d2856287df6/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-09T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIyMGE1YmMxYy0xZDhhLTQxYTctYjE5YS0wZDI4NTYyODdkZjYiLCJpbmRleCI6MjEsInBhZ2UiOjF9.NCmPJn1xe-61xMqU1cNN2WpZ6wr2g-VYVSR1snCApi4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-15T00:50:04Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "attractivepay",
+          "translation": "Attraktive Vergütung"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        },
+        {
+          "key": "homeOffice",
+          "translation": "Home Office"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "analytics"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "analytics",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "companyPension",
+        "sabbaticalYear",
+        "teamspirit",
+        "homeOffice",
+        "attractivepay"
+      ],
+      "requirements": [
+        "projectexperience",
+        "analyticalskills",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "5c5415d5-5308-4b43-85d9-a0e82083810c",
+    "title": "IT-Security – Cyber Security Data Leakage Analyst (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4990770",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4990770&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HSBC",
+    "jobTrackingId": "183eb039f95daed737e7136371239127",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "fc35a5edc9f58fd92a710f137bf0ed10",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 336.15924,
+    "clickoutUrl": "/offer/5c5415d5-5308-4b43-85d9-a0e82083810c/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-17T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI1YzU0MTVkNS01MzA4LTRiNDMtODVkOS1hMGU4MjA4MzgxMGMiLCJpbmRleCI6MjIsInBhZ2UiOjF9.fTuIEb4QLQajjmh38AN05d_5VXV2z6rPLt5dqJGAieI",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-17T12:50:06Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        },
+        {
+          "key": "study",
+          "translation": "Weiterbildungsmöglichkeiten"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "agency",
+          "translation": "Personalvermittler"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "agency",
+      "function": "engineering",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "flexiTime",
+        "companyPension",
+        "study"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "56a1b08a-f234-4d0a-b6d0-e5b2ce2a5ba2",
+    "title": "Cyber Security Engineer (m/w), Berlin, bis zu 80.000€",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10193490",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10193490&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "Nigel Frank International",
+    "jobTrackingId": "7f8012016503802d9791c0812798da6f",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.5167,
+          "lon": 13.4
+        },
+        "city": "Berlin",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "d3879973565fcd91d0cebf63541537a9",
+    "weight": -0.05,
+    "salary": {
+      "maxSalary": 80000,
+      "period": "annualy",
+      "description": "Up to €80000 per annum",
+      "currency": "EUR"
+    },
+    "relevanceScore": 335.64957,
+    "clickoutUrl": "/offer/56a1b08a-f234-4d0a-b6d0-e5b2ce2a5ba2/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-05-25T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI1NmExYjA4YS1mMjM0LTRkMGEtYjZkMC1lNWIyY2UyYTViYTIiLCJpbmRleCI6MjMsInBhZ2UiOjF9.wm7IJsFaym9c-sNcFXjKpLfCZ3mySDy_eV8uK_vuTYA",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-05-25T08:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "engineering",
+      "sectorLevel1": "it security",
+      "informativeTags": [
+        "Java"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "4deec066-d327-4033-b4a4-458ee8a4d491",
+    "title": "Cyber Security Ingenieur (m/w) Medizintechnik",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4938210",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4938210&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "ALTEN GmbH",
+    "jobTrackingId": "e0aaf3034c29414e7de54e826976bbff",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "96450",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "3cef47196ff0a71c98a1089cc1c678e6",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 335.63864,
+    "clickoutUrl": "/offer/4deec066-d327-4033-b4a4-458ee8a4d491/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-19T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI0ZGVlYzA2Ni1kMzI3LTQwMzMtYjRhNC00NThlZThhNGQ0OTEiLCJpbmRleCI6MjQsInBhZ2UiOjF9.BDdHCzMPGeyi5bxzvCP5-0n23znT7mqD-tgXfWUEqPA",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-04T12:50:31Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "seniority": "mid level management",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [
+        "network"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "flexiTime"
+      ],
+      "requirements": [
+        "selfmotivated"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "7f3106df-157d-4cb8-b030-69cbc6603bc4",
+    "title": "Information Security Manager / Cyber Risk Specialist (m/f)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4975951",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4975951&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HypoVereinsbank – Member of UniCredit",
+    "jobTrackingId": "8edcd55136e65e5316362cc5ea1520c7",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.14329528808594,
+          "lon": 11.564067840576172
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "bdf71e0fa8786518d1fcb46511b94d25",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 335.27716,
+    "clickoutUrl": "/offer/7f3106df-157d-4cb8-b030-69cbc6603bc4/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-05-09T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI3ZjMxMDZkZi0xNTdkLTRjYjgtYjAzMC02OWNiYzY2MDNiYzQiLCJpbmRleCI6MjUsInBhZ2UiOjF9.JVFNaWLlWR-FzAVIh2ZcSSpnDfUJpSodhY8s48xU75k",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-09T12:53:28Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering",
+      "seniority": "mid level management",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "engineering",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "teamspirit"
+      ],
+      "requirements": [
+        "serviceoriented",
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "b861d23c-1f2d-4e90-9f04-1c7baf3b8819",
+    "title": "Cyber Security Senior Engineer for loT",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4925084",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4925084&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Etas",
+    "jobTrackingId": "cfc29ec12bd0b52d77300af2cb05b6a2",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.81574249267578,
+          "lon": 9.170698165893555
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Stuttgart",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "e1b4e450ad7733d64116bdcd61ea07d0",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 334.8834,
+    "clickoutUrl": "/offer/b861d23c-1f2d-4e90-9f04-1c7baf3b8819/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-12T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJiODYxZDIzYy0xZjJkLTRlOTAtOWYwNC0xYzdiYWYzYjg4MTkiLCJpbmRleCI6MjYsInBhZ2UiOjF9.eAL5G7xscfzdZiNSX0Y8Gwg1T1QARoDWW66nI92SQfE",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "teamspirit"
+      ],
+      "requirements": [
+        "serviceoriented",
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "b38ed95a-7209-45fb-b593-0df9ba66a4f6",
+    "title": "Cyber Security Pentest Consultant for IoT",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4925082",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4925082&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Etas",
+    "jobTrackingId": "ef32053997ad58cadf0786d122e27cfc",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.76973342895508,
+          "lon": 9.185531616210938
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Stuttgart",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "c85a8d7947f60b75f142aba5f98c186c",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 334.8834,
+    "clickoutUrl": "/offer/b38ed95a-7209-45fb-b593-0df9ba66a4f6/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-12T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJiMzhlZDk1YS03MjA5LTQ1ZmItYjU5My0wZGY5YmE2NmE0ZjYiLCJpbmRleCI6MjcsInBhZ2UiOjF9.dcxttD2WsOGeCx0wpIXefkRhZ9IVkmD4RYPfDI82Y4o",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "study",
+          "translation": "Weiterbildungsmöglichkeiten"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "analytics"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "analytics",
+      "informativeTags": [
+        "Big Data"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "study",
+        "teamspirit"
+      ],
+      "requirements": [
+        "projectexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "6d85ae26-c8fd-4a49-8763-bdf221b92e53",
+    "title": "Cyber Security Analyst (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4945086",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4945086&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "PAYBACK GmbH",
+    "jobTrackingId": "dc8d9e92054a1f1c3eb024c6ee0dc7d0",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.14329528808594,
+          "lon": 11.564067840576172
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "f07dd9025971842d8b378d2b0fcb668a",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 334.47955,
+    "clickoutUrl": "/offer/6d85ae26-c8fd-4a49-8763-bdf221b92e53/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-20T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI2ZDg1YWUyNi1jOGZkLTRhNDktODc2My1iZGYyMjFiOTJlNTMiLCJpbmRleCI6MjgsInBhZ2UiOjF9.fE3-fSzxUQjHuam6ljWnnCrM8Qbq33-QrTgA4rdiRyo",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-21T12:50:08Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "englishnative",
+          "translation": "Verhandlungssicheres Englisch"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "seniority": "entry level",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "teamspirit",
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience",
+        "englishnative"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "en"
+      ]
+    },
+    "offerId": "86f7efbe-aa4a-40dd-90e8-519def6572bf",
+    "title": "(Junior) Cyber Security Experte (m/w)",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10199630",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10199630&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "KPMG AG Wirtschaftsprüfungsgesellschaft",
+    "jobTrackingId": "a03581500b4cec809020a01cc77b103b",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.5167,
+          "lon": 13.4
+        },
+        "city": "Berlin",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "074f11f87e0f1d5387b7cf472ab76e6c",
+    "weight": -0.05,
+    "salary": {
+      "description": "VB"
+    },
+    "relevanceScore": 334.12158,
+    "clickoutUrl": "/offer/86f7efbe-aa4a-40dd-90e8-519def6572bf/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-06-08T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI4NmY3ZWZiZS1hYTRhLTQwZGQtOTBlOC01MTlkZWY2NTcyYmYiLCJpbmRleCI6MjksInBhZ2UiOjF9.cJS1LuavJlakVKJMNsnRx5CbCjHU7dIv8NzuTFr5uL8",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-06-08T16:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "teamspirit"
+      ],
+      "requirements": [
+        "projectexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "d0eb8d76-5f2d-4bab-82ea-99ac183add16",
+    "title": "Cyber Security Architect (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4809826",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4809826&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "innogy SE",
+    "jobTrackingId": "767b5618c0af30135395649db6c8bc87",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.450286865234375,
+          "lon": 7.015047073364258
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Essen",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "eede7c30813581bc8443409ce4f6b0c5",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 334.1067,
+    "clickoutUrl": "/offer/d0eb8d76-5f2d-4bab-82ea-99ac183add16/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-02-13T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJkMGViOGQ3Ni01ZjJkLTRiYWItODJlYS05OWFjMTgzYWRkMTYiLCJpbmRleCI6MzAsInBhZ2UiOjF9.TTKrZ5adNK9ksnoA7KTMcGzRWryOqRDdTedq65MTaQQ",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-14T00:52:59Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "attractivepay",
+          "translation": "Attraktive Vergütung"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        },
+        {
+          "key": "homeOffice",
+          "translation": "Home Office"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "companyPension",
+        "sabbaticalYear",
+        "teamspirit",
+        "homeOffice",
+        "attractivepay"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "b7d8dbf2-5aa7-4b1f-852f-9fabeee386d1",
+    "title": "IT-Security / Cyber-Security-Spezialist (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4918354",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4918354&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HSBC",
+    "jobTrackingId": "853ef467c421640b5b5f80f346c72feb",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "be1324334cd545d557d14842fe5a5e84",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 333.84552,
+    "clickoutUrl": "/offer/b7d8dbf2-5aa7-4b1f-852f-9fabeee386d1/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-10T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJiN2Q4ZGJmMi01YWE3LTRiMWYtODUyZi05ZmFiZWVlMzg2ZDEiLCJpbmRleCI6MzEsInBhZ2UiOjF9.c7t_jcmRS1wmbq1lsYE0i5I8fJdxckTYVOlQfftiBIk",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-22T12:49:59Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "perk",
+          "translation": "Vergünstigungen"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "staffDiscount",
+          "translation": "Mitarbeiterrabatte"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "englishnative",
+          "translation": "Verhandlungssicheres Englisch"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "software development",
+          "translation": "Software Development"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "seniority": "mid level management",
+      "sectorLevel1": "software development"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "software development",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "teamspirit",
+        "perk",
+        "automotive",
+        "staffDiscount"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "englishnative",
+        "programming"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "en"
+      ]
+    },
+    "offerId": "20ea3fdf-fdf1-49e8-946a-f9b064ee01c3",
+    "title": "Projektleitung Kommunikationssoftware und Cyber Security",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4919229",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4919229&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Robert Bosch GmbH",
+    "jobTrackingId": "7ff5417e228b72b1929b569f1a628c16",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.817779541015625,
+          "lon": 9.16604995727539
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Stuttgart-Feuerbach",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "3eee40007c0781144bc4e28d324b3d98",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 333.40527,
+    "clickoutUrl": "/offer/20ea3fdf-fdf1-49e8-946a-f9b064ee01c3/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-10T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIyMGVhM2ZkZi1mZGYxLTQ5ZTgtOTQ2YS1mOWIwNjRlZTAxYzMiLCJpbmRleCI6MzIsInBhZ2UiOjF9.fSAHrCUw-aYlf6nSpXidBgO505S94szLzFLeH8PjDL4",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [
+        "analytics",
+        "digital",
+        "Big Data",
+        "technology",
+        "cybersecurity"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [],
+      "requirements": [],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "896de2df-f6e0-4976-8a47-6b363ff4710e",
+    "title": "CYBER SECURITY CONSULTANT (M/F) IT & INDUSTRY 4.0",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4959164",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4959164&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Altran Deutschland S.A.S. & Co. KG",
+    "jobTrackingId": "adb940ed7ca2bf28bbd9b3d62b752141",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 53.5544,
+          "lon": 9.9946
+        },
+        "city": "Hamburg",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.1345,
+          "lon": 11.571
+        },
+        "city": "München",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "26374f129ddc7af4e9911f20be3ec16c",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 332.74194,
+    "clickoutUrl": "/offer/896de2df-f6e0-4976-8a47-6b363ff4710e/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-28T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI4OTZkZTJkZi1mNmUwLTQ5NzYtOGE0Ny02YjM2M2ZmNDcxMGUiLCJpbmRleCI6MzMsInBhZ2UiOjF9.qFnRsSSLsNsWPCrrVpslCoW6m20kbsXTKLTtw7fYhWc",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-28T12:50:02Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "attractivepay",
+          "translation": "Attraktive Vergütung"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        },
+        {
+          "key": "homeOffice",
+          "translation": "Home Office"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "companyPension",
+        "sabbaticalYear",
+        "homeOffice",
+        "attractivepay"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "5ea285f7-01d4-440d-b2db-e9644a6a9e29",
+    "title": "IT-Security / Cyber-Security Vulnerability Management Spezialist (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4918363",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4918363&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "HSBC",
+    "jobTrackingId": "dff3d35b82db1d7462c9f8fcacec6b93",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.221126556396484,
+          "lon": 6.794135093688965
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Düsseldorf",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "106866ff4c0bd012109a258fd8886118",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 332.1419,
+    "clickoutUrl": "/offer/5ea285f7-01d4-440d-b2db-e9644a6a9e29/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-10T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI1ZWEyODVmNy0wMWQ0LTQ0MGQtYjJkYi1lOTY0NGE2YTllMjkiLCJpbmRleCI6MzQsInBhZ2UiOjF9.g81I5w6JNgGGSL_vg_4E6Glaj3D8j0cjDwuRFSE1JVA",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-22T12:49:59Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "startup",
+          "translation": "Startup"
+        },
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "seniority": "entry level",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "flexiTime",
+        "companyPension",
+        "sabbaticalYear",
+        "startup",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "completedDegree"
+      ],
+      "homeOffice": [
+        "homeoffice"
+      ],
+      "languageSkill": []
+    },
+    "offerId": "1de5e662-1433-4308-aa7b-1e6b51954c34",
+    "title": "(Junior) Consultant (m/w) Cyber Security",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4918287",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4918287&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "usd AG",
+    "jobTrackingId": "205623f18524494fa11e2365a05ef630",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.05,
+          "lon": 8.7
+        },
+        "city": "Neu-Isenburg",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 50.9383,
+          "lon": 6.9543
+        },
+        "city": "Köln",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.1345,
+          "lon": 11.571
+        },
+        "city": "München",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 48.7667,
+          "lon": 9.1833
+        },
+        "city": "Stuttgart",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "7727572c46642557ad6632a9fd68f04b",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 332.1419,
+    "clickoutUrl": "/offer/1de5e662-1433-4308-aa7b-1e6b51954c34/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-10T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIxZGU1ZTY2Mi0xNDMzLTQzMDgtYWE3Yi0xZTZiNTE5NTRjMzQiLCJpbmRleCI6MzUsInBhZ2UiOjF9.wHIrjyt71zEtefrZ8ykqYeC7pTQ5i56BJy4WPYMwy74",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-06-12T12:50:00Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "sabbaticalYear",
+          "translation": "Sabbatical"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "startup",
+          "translation": "Startup"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "parttime",
+          "translation": "Teilzeit"
+        },
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "parttime",
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "sabbaticalYear",
+        "startup",
+        "teamspirit",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de"
+      ]
+    },
+    "offerId": "b3a65aac-12bb-4f55-b251-38a9ee83a74e",
+    "title": "Asset-Manager für Cyber Security (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4964811",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4964811&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Deutsche Bahn AG",
+    "jobTrackingId": "d12022b14db5ccee209ea27fd82279d1",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.1167,
+          "lon": 8.6833
+        },
+        "city": "Frankfurt am Main",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 52.5167,
+          "lon": 13.4
+        },
+        "city": "Berlin",
+        "country": "",
+        "matchedNearestLocation": false
+      },
+      {
+        "geolocation": {
+          "lat": 50.9746,
+          "lon": 11.0297
+        },
+        "city": "Erfurt",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "8822a5c5d2bf8c0a4447976116ba3759",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 332.05917,
+    "clickoutUrl": "/offer/b3a65aac-12bb-4f55-b251-38a9ee83a74e/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-30T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJiM2E2NWFhYy0xMmJiLTRmNTUtYjI1MS0zOGE5ZWU4M2E3NGUiLCJpbmRleCI6MzYsInBhZ2UiOjF9.w8wvuc04wQ_vZAJCCwaEk4g1me-jbX07cKvS72gkb68",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-30T12:50:24Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "parttime",
+          "translation": "Teilzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "parttime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "flexiTime",
+        "companyPension",
+        "teamspirit",
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "f28d4f70-0467-44b6-b8fb-56466006fb69",
+    "title": "Cyber Security & IT Risk Officer (m/w)",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4879543",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4879543&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "Consors Finanz BNP Paribas",
+    "jobTrackingId": "dba02db38e2726fc918f59b0fc41caa9",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.14329528808594,
+          "lon": 11.564067840576172
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "abbf8d31f7fc355a74e66102a1ffc842",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 331.3096,
+    "clickoutUrl": "/offer/f28d4f70-0467-44b6-b8fb-56466006fb69/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-03-17T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJmMjhkNGY3MC0wNDY3LTQ0YjYtYjhmYi01NjQ2NjAwNmZiNjkiLCJpbmRleCI6MzcsInBhZ2UiOjF9.Q4tZdHKYmNZvfpwdDos7-847qqwC3wt54Q05nAeN0vg",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-04-16T12:53:21Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "seniority": "mid level management",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "teamspirit"
+      ],
+      "requirements": [
+        "projectexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "89cb2695-be8c-4e8f-9dc3-56107ed559e8",
+    "title": "Senior Expert (m/w) Cyber Security Resilience „SCADA/OT“",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4905340",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4905340&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "innogy SE",
+    "jobTrackingId": "544f53afee4f545acdb346ea797ffab0",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.450286865234375,
+          "lon": 7.015047073364258
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Essen",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "ce3ac665e68b97a57c060e239548fc27",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 330.96692,
+    "clickoutUrl": "/offer/89cb2695-be8c-4e8f-9dc3-56107ed559e8/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-04-03T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI4OWNiMjY5NS1iZThjLTRlOGYtOWRjMy01NjEwN2VkNTU5ZTgiLCJpbmRleCI6MzgsInBhZ2UiOjF9.KfviGp2ri-isSRVf4XEnoHjHOwyMBFBSXcYXuPa3_cY",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-04-30T00:53:26Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "informativeTags": [
+        "Big Data"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "personalmentoring"
+      ],
+      "requirements": [],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "d7bf2d5a-3ca7-459f-9f95-1cfbee53e2c8",
+    "title": "Manager (w/m) Cyber Risk Consulting",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10183488",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10183488&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "PricewaterhouseCoopers GmbH",
+    "jobTrackingId": "c5dec000d6eafe0724cbb0af0564c3a1",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.5167,
+          "lon": 13.4
+        },
+        "city": "Berlin",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "aa47dc5b4099898ffceeb71270c2f6df",
+    "weight": -0.05,
+    "salary": {},
+    "relevanceScore": 330.87686,
+    "clickoutUrl": "/offer/d7bf2d5a-3ca7-459f-9f95-1cfbee53e2c8/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-05-02T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJkN2JmMmQ1YS0zY2E3LTQ1OWYtOWY5NS0xY2ZiZWU1M2UyYzgiLCJpbmRleCI6MzksInBhZ2UiOjF9.Tj-E2i7mPRUeRJUzVwIolRTevSKVAe41lvXY97f9KAw",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-05-07T08:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "courses",
+          "translation": "Schulungen"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "it consulting",
+          "translation": "IT Consulting"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "it consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "it consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "courses",
+        "personalmentoring"
+      ],
+      "requirements": [],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "37f050f3-0a48-4a56-8a60-ff3c20ac83ca",
+    "title": "Erfahrener Berater (w/m) Cyber Security",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10183530",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10183530&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "PricewaterhouseCoopers GmbH",
+    "jobTrackingId": "4f3edb7fd06287dc373734162d3a070e",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.2216,
+          "lon": 6.7897
+        },
+        "city": "Düsseldorf",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "0ac3a45bf349f8fccfb1f588877f28a0",
+    "weight": -0.05,
+    "salary": {},
+    "relevanceScore": 330.87686,
+    "clickoutUrl": "/offer/37f050f3-0a48-4a56-8a60-ff3c20ac83ca/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-05-02T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIzN2YwNTBmMy0wYTQ4LTRhNTYtOGE2MC1mZjNjMjBhYzgzY2EiLCJpbmRleCI6NDAsInBhZ2UiOjF9.tsUANX_KZj6-6blw0SJ-dyLnRvboGsIEfOXE-WeOZD8",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-06-12T08:04:00.001Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "englishnative",
+          "translation": "Verhandlungssicheres Englisch"
+        },
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "teamspirit",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience",
+        "englishnative"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "en"
+      ]
+    },
+    "offerId": "79e5096f-c435-4af6-9c7b-443f14f1a66b",
+    "title": "Cyber Security Architect",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4797217",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4797217&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "AKKA Germany GmbH",
+    "jobTrackingId": "2cc190d2dc436d94c21d47e8eb68d3b5",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.14329528808594,
+          "lon": 11.564067840576172
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "München",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "6f62f94434f8737720f9cc65d36ea69b",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 330.45663,
+    "clickoutUrl": "/offer/79e5096f-c435-4af6-9c7b-443f14f1a66b/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-02-07T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI3OWU1MDk2Zi1jNDM1LTRhZjYtOWM3Yi00NDNmMTRmMWE2NmIiLCJpbmRleCI6NDEsInBhZ2UiOjF9.Jas_oS2aK2luFroCbi-3Uc84ee3Y_i6ZIx1kk7pKncY",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-04-13T00:53:23Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "agency",
+          "translation": "Personalvermittler"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "agency",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "teamspirit",
+        "training"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "e6bd1f9a-64ea-438e-9850-6d88e912a066",
+    "title": "Cyber Security Experte (m/w)",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10166795",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10166795&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "Michael Page",
+    "jobTrackingId": "ced852e8edcbc04936f596ed6ae0b967",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.1167,
+          "lon": 8.6833
+        },
+        "city": "Frankfurt am Main",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "0ad6fbf3be74deb8e9d58507efe41803",
+    "weight": -0.05,
+    "salary": {},
+    "relevanceScore": 329.28955,
+    "clickoutUrl": "/offer/e6bd1f9a-64ea-438e-9850-6d88e912a066/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-03-27T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJlNmJkMWY5YS02NGVhLTQzOGUtOTg1MC02ZDg4ZTkxMmEwNjYiLCJpbmRleCI6NDIsInBhZ2UiOjF9.R4gzUQFISbCcefg_-vNJv5Dju0Y9KebCajnu48CpBXc",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-04-03T08:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "study",
+          "translation": "Weiterbildungsmöglichkeiten"
+        },
+        {
+          "key": "innovativeculture",
+          "translation": "Innovatives Umfeld"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "agency",
+          "translation": "Personalvermittler"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "seniority": "entry level",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "agency",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "study",
+        "innovativeculture",
+        "teamspirit",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience",
+        "completedDegree"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "4a71fdb7-09dd-438f-a067-ede59c10aed0",
+    "title": "Junior Cyber Security Specialist (m/w)",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10149664",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10149664&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "Franklin Fitch",
+    "jobTrackingId": "c13c038f5d26b29834b93749106d7133",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 48.1345,
+          "lon": 11.571
+        },
+        "city": "München",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "d6e5f6e2b7dff96c3c649c8b493d12ef",
+    "weight": -0.05,
+    "salary": {
+      "minSalary": 40000,
+      "maxSalary": 75000,
+      "period": "annualy",
+      "description": "€40.000 - €75.000 per year",
+      "currency": "EUR"
+    },
+    "relevanceScore": 329.28287,
+    "clickoutUrl": "/offer/4a71fdb7-09dd-438f-a067-ede59c10aed0/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-02-21T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI0YTcxZmRiNy0wOWRkLTQzOGYtYTA2Ny1lZGU1OWMxMGFlZDAiLCJpbmRleCI6NDMsInBhZ2UiOjF9.Am018smGMPjLHet3bep6LW8j073abrMbNhMbUf_OZ1w",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-04-03T10:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "devOpportunity",
+          "translation": "Entwicklungsmöglichkeiten"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "seniority": "mid level management",
+      "sectorLevel1": "it security",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "company",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [
+        "cybersecurity",
+        "network"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "devOpportunity",
+        "training"
+      ],
+      "requirements": [
+        "proactive"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "en"
+      ]
+    },
+    "offerId": "4a97c95f-2082-47bc-b26b-987c8f86117c",
+    "title": "Senior Consultant Cyber Security (m/f) - Penetration Tester",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4871323",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4871323&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "P3 group GmbH",
+    "jobTrackingId": "1df1d871f84fb262653822032eba79ba",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.519171,
+          "lon": 13.4060912
+        },
+        "address": "",
+        "district": "",
+        "zip": "52070",
+        "city": "Berlin",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "5c92faa4f5ec8672ed12590bd82deb1a",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 328.98157,
+    "clickoutUrl": "/offer/4a97c95f-2082-47bc-b26b-987c8f86117c/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-03-15T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI0YTk3Yzk1Zi0yMDgyLTQ3YmMtYjI2Yi05ODdjOGY4NjExN2MiLCJpbmRleCI6NDQsInBhZ2UiOjF9.dbFUI55Oln_pgFVtz_0Jh8MSYpHK6HroheIjRP0Rh5k",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-14T00:52:59Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "other consulting",
+          "translation": "Consulting & Beratung (Sonstige)"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "seniority": "mid level management",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "other consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "teamspirit",
+        "personalmentoring",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "8771ed03-06e0-48bb-9b1e-eb93353180e2",
+    "title": "Senior Consultant / Manager (w/m) Cyber Security - Finanzdienstleistungen",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10183474",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10183474&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "PricewaterhouseCoopers GmbH",
+    "jobTrackingId": "14e83fa81dd6a12314609b208cfc0efa",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.1167,
+          "lon": 8.6833
+        },
+        "city": "Frankfurt am Main",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "822b13f75d3ef7d4bc1a630bbe534849",
+    "weight": -0.05,
+    "salary": {},
+    "relevanceScore": 327.95013,
+    "clickoutUrl": "/offer/8771ed03-06e0-48bb-9b1e-eb93353180e2/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-05-02T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI4NzcxZWQwMy0wNmUwLTQ4YmItOWIxZS1lYjkzMzUzMTgwZTIiLCJpbmRleCI6NDUsInBhZ2UiOjF9.EpKY9BPDjNC6DssyJkh2NZ5J2t9QMlPltbXAKuSjhuM",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-06-12T08:04:00.001Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "flexiTime",
+          "translation": "Flexible Arbeitszeiten"
+        },
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        },
+        {
+          "key": "companyPension",
+          "translation": "Altersvorsorgung"
+        }
+      ],
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        },
+        {
+          "key": "travelReady",
+          "translation": "Reisebereitschaft"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "it",
+          "translation": "IT"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "it",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "it",
+      "sectorLevel1": "it security",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "flexiTime",
+        "companyPension",
+        "teamspirit",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "travelReady",
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "a273fceb-be38-4051-ba2b-7faeb7eab738",
+    "title": "Cyber Security Specialist (m/w)",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10132853",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10132853&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "Airbus CyberSecurity",
+    "jobTrackingId": "415feb47e08bf6d7ba3b5af887086e0f",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 50.1167,
+          "lon": 8.6833
+        },
+        "city": "Frankfurt am Main",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "31484a5273d4d539e797d096b7ac44ab",
+    "weight": -0.05,
+    "salary": {
+      "description": "Competitive"
+    },
+    "relevanceScore": 326.80487,
+    "clickoutUrl": "/offer/a273fceb-be38-4051-ba2b-7faeb7eab738/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-01-18T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJhMjczZmNlYi1iZTM4LTQwNTEtYmEyYi03ZmFlYjdlYWI3MzgiLCJpbmRleCI6NDYsInBhZ2UiOjF9.ULq_fF9ZqCoTcAuas3e5txXHNx91Luyl4KDAnmn98sA",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-01-18T11:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "benefits": [
+        {
+          "key": "teamspirit",
+          "translation": "Teamspirit"
+        }
+      ],
+      "sectorLevel2": [
+        {
+          "key": "it consulting",
+          "translation": "IT Consulting"
+        }
+      ],
+      "companytype": [
+        {
+          "key": "company",
+          "translation": "Unternehmen"
+        }
+      ],
+      "function": [
+        {
+          "key": "business",
+          "translation": "Business"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "business",
+      "seniority": "mid level management",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "it consulting"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "company",
+      "function": "business",
+      "sectorLevel1": "consulting",
+      "sectorLevel2": "it consulting",
+      "informativeTags": [],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [],
+      "industries": [],
+      "benefits": [
+        "consulting",
+        "teamspirit",
+        "personalmentoring",
+        "automotive",
+        "internationalcompany"
+      ],
+      "requirements": [
+        "projectexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "en"
+      ]
+    },
+    "offerId": "03c33fa6-b756-46b2-9e6f-abcbd68ee7f3",
+    "title": "Senior Consultant Cyber Security (m/w) - Penetration Tester",
+    "source": "stepstone",
+    "provider": "productsup",
+    "itemId": "4801475",
+    "url": "https://www.stepstone.de/5/index.cfm?offerid=4801475&event=offerView.dspOfferInline&cid=msearche_everyjob___1-___DEVICE_TYPE_SHORT_______JL_TID___",
+    "company": "P3 group GmbH",
+    "jobTrackingId": "134e23a239028fbfe1bc8caa026e9f56",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 52.519171,
+          "lon": 13.4060912
+        },
+        "address": "",
+        "district": "",
+        "zip": "",
+        "city": "Berlin",
+        "state": "",
+        "country": "",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "all",
+    "partnerDisplayName": "stepstone DE",
+    "itemHash": "9b14e90cb8c2028216077978bf15ed21",
+    "weight": 0,
+    "cpcCategory": "Feed 1",
+    "relevanceScore": 325.52518,
+    "clickoutUrl": "/offer/03c33fa6-b756-46b2-9e6f-abcbd68ee7f3/",
+    "cpcHash": "083d8ac50d722fff26a77395cbb9bdef3c4bdf52",
+    "tsCreated": "2018-02-09T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiIwM2MzM2ZhNi1iNzU2LTQ2YjItOWU2Zi1hYmNiZDY4ZWU3ZjMiLCJpbmRleCI6NDcsInBhZ2UiOjF9.A-gHoLDfm4WEpWO7ZjyvjM05Fd4RPZUPXvkg8lSE7Gc",
+    "businessFeed": "productsup-stepstone",
+    "showDetails": false,
+    "tsImport": "2018-05-25T00:51:02Z",
+    "customer": "stepstone-de"
+  },
+  {
+    "tags": {
+      "requirements": [
+        {
+          "key": "completedDegree",
+          "translation": "Absolviertes Studium"
+        }
+      ],
+      "sectorLevel1": [
+        {
+          "key": "it security",
+          "translation": "IT Sicherheit"
+        }
+      ],
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "de",
+          "translation": "DE"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering",
+      "sectorLevel1": "it security"
+    },
+    "annotations": {
+      "language": "de",
+      "companyType": "",
+      "function": "engineering",
+      "sectorLevel1": "it security",
+      "informativeTags": [
+        "Lua"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [],
+      "requirements": [
+        "projectexperience",
+        "completedDegree",
+        "jobexperience"
+      ],
+      "homeOffice": [],
+      "languageSkill": [
+        "de",
+        "en"
+      ]
+    },
+    "offerId": "43b7ae4a-0902-4258-aab4-35caa1901b66",
+    "title": "Cyber Security Engineer ICS (w/m)",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10132980",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10132980&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "Airbus CyberSecurity",
+    "jobTrackingId": "b44ebdc2d32bbbdd04d0f9ce093e37bb",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 53.5544,
+          "lon": 9.9946
+        },
+        "city": "Hamburg",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "fb538c75a5d1074919b632b8f6c775cb",
+    "weight": -0.05,
+    "salary": {
+      "description": "Competitive"
+    },
+    "relevanceScore": 325.0925,
+    "clickoutUrl": "/offer/43b7ae4a-0902-4258-aab4-35caa1901b66/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-01-18T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiI0M2I3YWU0YS0wOTAyLTQyNTgtYWFiNC0zNWNhYTE5MDFiNjYiLCJpbmRleCI6NDgsInBhZ2UiOjF9.6sNZ85-yseo_n68EYH1hnalmu6Wuudn2NJmYxiBOFMs",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-01-18T17:04:00Z",
+    "customer": "dice"
+  },
+  {
+    "tags": {
+      "function": [
+        {
+          "key": "engineering",
+          "translation": "Technik & Ingenieurswissenschaften"
+        }
+      ],
+      "language": [
+        {
+          "key": "en",
+          "translation": "EN"
+        }
+      ],
+      "employmentTypes": [
+        {
+          "key": "permanent",
+          "translation": "Festanstellung"
+        }
+      ],
+      "workingTimes": [
+        {
+          "key": "fulltime",
+          "translation": "Vollzeit"
+        }
+      ]
+    },
+    "titleCategory": {
+      "function": "engineering"
+    },
+    "annotations": {
+      "language": "en",
+      "companyType": "",
+      "function": "engineering",
+      "informativeTags": [
+        "technology",
+        "strategy"
+      ],
+      "workingTimes": [
+        "fulltime"
+      ],
+      "employmentTypes": [
+        "permanent"
+      ],
+      "industries": [],
+      "benefits": [
+        "training"
+      ],
+      "requirements": [],
+      "homeOffice": [],
+      "languageSkill": []
+    },
+    "offerId": "df1a8b3b-5eb9-4006-a632-4c91a9ba166f",
+    "title": "Cyber Systems Engineering Manager (f/m)",
+    "source": "dice",
+    "provider": "dice",
+    "itemId": "10199366",
+    "url": "http://de.dice.com/?Mode=AdvertView&AdvertId=10199366&utm_source=Feed&utm_medium=Aggregator&utm_campaign=Joblift",
+    "company": "PricewaterhouseCoopers GmbH",
+    "jobTrackingId": "5f0415fd26e4859e8223f0b6b13ff9f3",
+    "locations": [
+      {
+        "geolocation": {
+          "lat": 51.2216,
+          "lon": 6.7897
+        },
+        "city": "Düsseldorf",
+        "country": "GERMANY",
+        "matchedNearestLocation": false
+      }
+    ],
+    "directApplication": false,
+    "site": "de",
+    "feedName": "paid",
+    "itemHash": "3fe362336fb4bfd4c0378202e2e40a5e",
+    "weight": -0.05,
+    "salary": {},
+    "relevanceScore": 324.8301,
+    "clickoutUrl": "/offer/df1a8b3b-5eb9-4006-a632-4c91a9ba166f/",
+    "cpcHash": "357bf02da5a4cc363f16c89a165c97079ec0f98e",
+    "tsCreated": "2018-06-08T00:00:00Z",
+    "regionIndependent": false,
+    "recent": false,
+    "redirectToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxIjp7ImxvY2F0aW9uIjoiIiwiaWQiOiJjeWJlciwiLCJ0aXRsZSI6IkN5YmVyIn0sIm9mZmVySWQiOiJkZjFhOGIzYi01ZWI5LTQwMDYtYTYzMi00YzkxYTliYTE2NmYiLCJpbmRleCI6NDksInBhZ2UiOjF9.4Kr24-wX8ZdCymDnXzNxMcLLGhuMuVYtamoF0E49xHc",
+    "businessFeed": "dice-all-paid",
+    "showDetails": false,
+    "tsImport": "2018-06-08T08:04:00Z",
+    "customer": "dice"
+  }
+]
