@@ -14,8 +14,7 @@ const Job = ({ job }) =>
       <CompanyName name={job.company} />
       <Location locations={job.locations} />
       <Title title={job.title} />
-      {job.tags &&
-        <Benefits benefits={job.tags.benefits} />
+      {job.tags && <Benefits benefits={job.tags.benefits} />}
       <Details>
         <Button transparent={true}>zum Job</Button>
       </Details>
