@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+const IndicateNew = styled.div``;
 const JobContainer = styled.div`
   margin: 20px;
   padding: 20px;
@@ -28,10 +29,17 @@ const Benefit = styled.span`
   border-radius: 5px;
 `;
 
+function isNewJob(date) {
+  // if date is new than 10.000h, it is considered new
+  return (Date.now() - Date.parse(date)) / 360000 < 10000;
+}
+
 const Job = ({ job }) => {
   return (
     job && (
       <JobContainer>
+        {job.tsCreated &&
+          isNewJob(job.tsCreated) && <IndicateNew>Neu</IndicateNew>}
         <Company>{job.company}</Company>
         <Location>
           {job.locations && job.locations.map(item => item.city).join(', ')}
