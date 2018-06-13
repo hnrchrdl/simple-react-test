@@ -8,7 +8,7 @@ const JobListContainer = styled.div`
   text-align: left;
 `;
 const LoadMore = styled.div`
-  background: #333;
+  background: #555;
   color: #fff;
   padding: 20px;
   box-sizing: border-box;
@@ -16,7 +16,7 @@ const LoadMore = styled.div`
   margin: 20px;
   cursor: pointer;
   &:hover {
-    background: #555;
+    background: #777;
   }
 `;
 

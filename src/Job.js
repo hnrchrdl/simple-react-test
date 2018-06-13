@@ -6,6 +6,7 @@ const JobContainer = styled.div`
   margin: 20px;
   padding: 20px;
   border: 1px solid #eee;
+  border-radius: 4px;
   position: relative;
 `;
 const Title = styled.div`
@@ -33,12 +34,14 @@ const DetailsButton = styled.a`
   position: absolute;
   top: 10px;
   right: 10px;
-  padding: 10px;
-  background: coral;
-  color: #fff;
+  padding: 10px 30px;
+  border: 1px solid coral;
+  color: coral;
+  border-radius: 4px;
   text-decoration: none;
   &:hover {
-    background: #666;
+    background: coral;
+    color: #fff;
   }
 `;
 
@@ -67,7 +70,7 @@ const Job = ({ job }) => {
             </BenefitsContainer>
           )}
         <DetailsButton target="_blank" href={job.url}>
-          Details
+          Zum Job
         </DetailsButton>
       </JobContainer>
     )
