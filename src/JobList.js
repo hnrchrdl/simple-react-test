@@ -1,32 +1,27 @@
 import React from 'react';
 import Job from './Job';
 import styled from 'styled-components';
+import Button from './Button';
+
+const JobList = ({ jobs, loadMore }) => {
+  return (
+    <JobListContainer>
+      {jobs.map(job => <Job key={job.itemId} job={job} />)}
+      <LoadMoreContainer>
+        <Button onClick={loadMore}> mehr... </Button>
+      </LoadMoreContainer>
+    </JobListContainer>
+  );
+};
 
 const JobListContainer = styled.div`
   max-width: 900px;
   margin: auto;
   text-align: left;
 `;
-const LoadMore = styled.div`
-  background: #555;
-  color: #fff;
-  padding: 20px;
-  box-sizing: border-box;
-  text-align: center;
+const LoadMoreContainer = styled.div`
   margin: 20px;
-  cursor: pointer;
-  &:hover {
-    background: #777;
-  }
 `;
-
-const JobList = ({ jobs, loadMore }) => {
-  return (
-    <JobListContainer>
-      {jobs.map(job => <Job key={job.itemId} job={job} />)}
-      <LoadMore onClick={loadMore}> mehr... </LoadMore>
-    </JobListContainer>
-  );
-};
+const LoadMore = styled.div``;
 
 export default JobList;
