@@ -1,8 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Button = ({ children, onClick }) => (
-  <ButtonEl onClick={onClick}>{children}</ButtonEl>
+const Button = ({ children, onClick, ...props }) => (
+  <ButtonEl onClick={onClick} {...props}>
+    {children}
+  </ButtonEl>
 );
 
 const ButtonEl = styled.div`
@@ -12,9 +14,11 @@ const ButtonEl = styled.div`
   box-sizing: border-box;
   text-align: center;
   cursor: pointer;
+  border: 1px solid ${props => (props.transparent ? 'coral' : '#777')}
   border-radius: 4px;
   &:hover {
     background: ${props => (props.transparent ? 'coral' : '#777')};
+    color: #fff;
   }
 `;
 

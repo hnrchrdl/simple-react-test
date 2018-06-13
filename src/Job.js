@@ -2,33 +2,25 @@ import React from 'react';
 import styled from 'styled-components';
 import { isNewJob } from './lib';
 import Button from './Button';
+import CompanyName from './CompanyName';
+import Benefits from './Benefits';
+import Title from './Title';
+import Location from './Location';
 
-const Job = ({ job }) => {
-  return (
-    job && (
-      <JobContainer>
-        {job.tsCreated &&
-          isNewJob(job.tsCreated) && <IndicateNew>*</IndicateNew>}
-        <Company>{job.company}</Company>
-        <Location>
-          {job.locations && job.locations.map(item => item.city).join(', ')}
-        </Location>
-        <Title>{job.title}</Title>
-        {job.tags &&
-          job.tags.benefits && (
-            <BenefitsContainer>
-              {job.tags.benefits.map(benefit => (
-                <Benefit key={benefit.key}>{benefit.translation}</Benefit>
-              ))}
-            </BenefitsContainer>
-          )}
-        <Details>
-          <Button transparent={true}>zum Job</Button>
-        </Details>
-      </JobContainer>
-    )
+const Job = ({ job }) =>
+  job && (
+    <JobContainer>
+      {job.tsCreated && isNewJob(job.tsCreated) && <IndicateNew>*</IndicateNew>}
+      {job.company && <CompanyName name={job.company} />}
+      {job.locations && <Location locations={job.locations} />}
+      {job.title && <Title title={job.title} />}
+      {job.tags &&
+        job.tags.benefits && <Benefits benefits={job.tags.benefits} />}
+      <Details>
+        <Button transparent={true}>zum Job</Button>
+      </Details>
+    </JobContainer>
   );
-};
 
 const IndicateNew = styled.div`
   position: absolute;
@@ -49,27 +41,7 @@ const JobContainer = styled.div`
   border-radius: 4px;
   position: relative;
 `;
-const Title = styled.div`
-  margin: 20px 0 0;
-  font-size: 1.3em;
-`;
-const Company = styled.div`
-  display: inline-block;
-`;
-const Location = styled.div`
-  display: inline-block;
-  margin: 0 0 0 15px;
-  color: #888;
-`;
-const BenefitsContainer = styled.div`
-  margin: 20px 0 0;
-`;
-const Benefit = styled.span`
-  background-color: #eee;
-  padding: 5px;
-  margin: 0 10px 0 0;
-  border-radius: 5px;
-`;
+
 const Details = styled.div`
   position: absolute;
   top: 10px;
