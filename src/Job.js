@@ -11,11 +11,11 @@ const Job = ({ job }) =>
   job && (
     <JobContainer>
       {job.tsCreated && isNewJob(job.tsCreated) && <IndicateNew>*</IndicateNew>}
-      {job.company && <CompanyName name={job.company} />}
-      {job.locations && <Location locations={job.locations} />}
-      {job.title && <Title title={job.title} />}
+      <CompanyName name={job.company} />
+      <Location locations={job.locations} />
+      <Title title={job.title} />
       {job.tags &&
-        job.tags.benefits && <Benefits benefits={job.tags.benefits} />}
+        <Benefits benefits={job.tags.benefits} />
       <Details>
         <Button transparent={true}>zum Job</Button>
       </Details>
