@@ -6,6 +6,7 @@ const JobContainer = styled.div`
   margin: 20px;
   padding: 20px;
   border: 1px solid #eee;
+  position: relative;
 `;
 const Title = styled.div`
   margin: 20px 0 0;
@@ -27,6 +28,18 @@ const Benefit = styled.span`
   padding: 5px;
   margin: 0 10px 0 0;
   border-radius: 5px;
+`;
+const DetailsButton = styled.a`
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 10px;
+  background: coral;
+  color: #fff;
+  text-decoration: none;
+  &:hover {
+    background: #666;
+  }
 `;
 
 function isNewJob(date) {
@@ -53,6 +66,9 @@ const Job = ({ job }) => {
               ))}
             </BenefitsContainer>
           )}
+        <DetailsButton target="_blank" href={job.url}>
+          Details
+        </DetailsButton>
       </JobContainer>
     )
   );
